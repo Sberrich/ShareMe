@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Pins = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>Pins</div>;
+};
 
-export default Pins
+export default Pins;
